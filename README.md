@@ -1,0 +1,1 @@
+# soma-smart-shade-homekit-script
